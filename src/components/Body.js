@@ -9,7 +9,7 @@ function cheap(){
 const Body = () => (
     <div className="body">
     <div className="cheap">
-      <button onclick={cheap}>Less than 300 </button>
+      <button onclick={cheap}>Less than 3000 </button>
     </div>
     <div className="res-container">
       {resList.map((restaurant) => (
