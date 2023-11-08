@@ -26,3 +26,8 @@
  according to the industry standards.
 - learnt to use import and export functions
 - two tyoes of eport 1- default 2-named(when we want to export more than one file.)
+
+  # Day 3 8th Nov 2023
+  - Learnt about React Hooks
+  - reconcilation aka React fiber basics, Virtual DOM
+  - Using React hooks made a button which gave the top rated restaurant list(>4) on clicking the button.
