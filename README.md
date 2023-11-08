@@ -31,3 +31,4 @@
   - Learnt about React Hooks
   - reconcilation aka React fiber basics, Virtual DOM
   - Using React hooks made a button which gave the top rated restaurant list(>4) on clicking the button.
+  - Also made another button which shows restaurants priced less than 300 on clicking.
