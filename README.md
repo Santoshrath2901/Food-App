@@ -32,3 +32,10 @@
   - reconcilation aka React fiber basics, Virtual DOM
   - Using React hooks made a button which gave the top rated restaurant list(>4) on clicking the button.
   - Also made another button which shows restaurants priced less than 300 on clicking.
+ 
+  # Day 4 10th Nov 2023
+  - learnt about useeffect
+  - made a search bar using use state
+  - made a logout/login button which toggles between each other onclicking.
+  - learmt about the shimmering effect and applied it on the website.
+  - using fetch operation of javascript fetched the swiggy live api( by apllying CORS extension in browser).
