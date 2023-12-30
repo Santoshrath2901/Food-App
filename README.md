@@ -39,3 +39,15 @@
   - made a logout/login button which toggles between each other onclicking.
   - learmt about the shimmering effect and applied it on the website.
   - using fetch operation of javascript fetched the swiggy live api( by apllying CORS extension in browser).
+ 
+  # Day 5 29th Dec 2023
+  - learnt about various routing techniques.
+  - client side routing and server side routing.
+ 
+  # Day 6 30th Dec 2023
+  - learnt about class based components(older way of writing components).
+  - learnt how to use props and hooks
+  - learnt how to make an api call in class based components.
+  - further optimized the app by breaking down to components wherever possible.
+  - learnt about single responsibility principle.
+  - made a butoon to show wheteher you are offline or online.
