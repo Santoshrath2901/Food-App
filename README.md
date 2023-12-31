@@ -51,3 +51,7 @@
   - further optimized the app by breaking down to components wherever possible.
   - learnt about single responsibility principle.
   - made a butoon to show wheteher you are offline or online.
+
+  # Day 7 31st Dec 2023
+  - learnt how to install and configure Tailwind css in parcel bundler of React.
+  - Deleted the initial css part and wrote the entire Home page Css using Tailwind CSS Intellisense.
