@@ -55,3 +55,9 @@
   # Day 7 31st Dec 2023
   - learnt how to install and configure Tailwind css in parcel bundler of React.
   - Deleted the initial css part and wrote the entire Home page Css using Tailwind CSS Intellisense.
+ 
+  # Day 8 3rd Jan 2024
+  - Learnt about Higher Order Components.
+  - Learnt about controlled and uncontrolled components
+  - learnt about props Drilling and the reason to avoid it.
+  - Learnt about React context and how it can be used insted of props for data that is nedded to be used in many instances.
