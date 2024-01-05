@@ -61,3 +61,10 @@
   - Learnt about controlled and uncontrolled components
   - learnt about props Drilling and the reason to avoid it.
   - Learnt about React context and how it can be used insted of props for data that is nedded to be used in many instances.
+ 
+  # Day 9-10 4th and 5th Jan 2024
+  - learnt about Redux State Management system.
+  - learnt about different jargons in redux like (reducer,selector).
+  - learnt what subscribing the store means.
+  - using redux toolkit made a function that does when we ckick on add(+) button it updates the cart item and also updates the UI.
+    
